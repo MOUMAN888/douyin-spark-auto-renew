@@ -23,9 +23,9 @@ OFF_ON_Aaiqky_TEXT = True
 OFF_ON_ERROR_Email = True
 
 # 邮箱配置 [163邮箱]
-my_sender = '13750209771@163.com'
-my_pass = 'FGaW6AtCQKsBNvD5'
-my_user = 'liusiman648@163.com'
+my_sender = 'xxx@163.com'
+my_pass = ''
+my_user = 'xxx@163.com'
 
 
 # 你提供的元素类名
